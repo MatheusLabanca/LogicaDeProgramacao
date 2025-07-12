@@ -1,0 +1,1 @@
+Essa pasta contém os exercícios resolvidos por mim sobre o tema "Lógica de Programação" na linguagem Portugol no VisualG. 
