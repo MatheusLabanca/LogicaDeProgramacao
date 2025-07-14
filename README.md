@@ -1,1 +1,1 @@
-Essa pasta contém os exercícios resolvidos por mim sobre o tema "Lógica de Programação" na linguagem Portugol no VisualG. 
+Aqui vão estar exercícios resolvidos por mim na linguagem portugol para o tema "Vetores" em lógica de programação.
