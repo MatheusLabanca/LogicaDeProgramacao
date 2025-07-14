@@ -1,1 +1,1 @@
-Aqui vão estar exercícios resolvidos por mim na linguagem portugol para o tema "Vetores" em lógica de programação.
+Aqui vão estar exercícios/problemas de lógica de programação resolvidos por mim no VisualG usando o "Portugol".
