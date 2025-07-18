@@ -8,7 +8,8 @@ Este repositório contém exercícios, exemplos e anotações relacionadas à l�
 
 Os arquivos estão organizados por linguagem e, dentro de cada uma, por tema:
 
-📁Linguagens/
+```
+Linguagens/
 ├── VisualG/
 │   ├── EstruturaCondicional/
 │   ├── EstruturaRepetitiva/
@@ -45,6 +46,7 @@ Os arquivos estão organizados por linguagem e, dentro de cada uma, por tema:
     ├── EstruturaSequencial/
     ├── Funcoes/
     └── VetoresEMatrizes/
+    ```
 
 
 
