@@ -8,48 +8,44 @@ Este repositório contém exercícios, exemplos e anotações relacionadas à l�
 
 Os arquivos estão organizados por linguagem e, dentro de cada uma, por tema:
 
-/
+📁 Linguagens
 ├── VisualG/
-│ ├── EstruturaCondicional/
-│ ├── EstruturaRepetitiva/
-│ ├── EstruturaSequencial/
-│ ├── Funcoes/
-│ └── VetoresEMatrizes/
-
+│   ├── EstruturaCondicional/
+│   ├── EstruturaRepetitiva/
+│   ├── EstruturaSequencial/
+│   ├── Funcoes/
+│   └── VetoresEMatrizes/
 ├── C/
-│ ├── EstruturaCondicional/
-│ ├── EstruturaRepetitiva/
-│ ├── EstruturaSequencial/
-│ ├── Funcoes/
-│ └── VetoresEMatrizes/
-
+│   ├── EstruturaCondicional/
+│   ├── EstruturaRepetitiva/
+│   ├── EstruturaSequencial/
+│   ├── Funcoes/
+│   └── VetoresEMatrizes/
 ├── C++/
-│ ├── EstruturaCondicional/
-│ ├── EstruturaRepetitiva/
-│ ├── EstruturaSequencial/
-│ ├── Funcoes/
-│ └── VetoresEMatrizes/
-
+│   ├── EstruturaCondicional/
+│   ├── EstruturaRepetitiva/
+│   ├── EstruturaSequencial/
+│   ├── Funcoes/
+│   └── VetoresEMatrizes/
 ├── C#/
-│ ├── EstruturaCondicional/
-│ ├── EstruturaRepetitiva/
-│ ├── EstruturaSequencial/
-│ ├── Funcoes/
-│ └── VetoresEMatrizes/
-
+│   ├── EstruturaCondicional/
+│   ├── EstruturaRepetitiva/
+│   ├── EstruturaSequencial/
+│   ├── Funcoes/
+│   └── VetoresEMatrizes/
 ├── Java/
-│ ├── EstruturaCondicional/
-│ ├── EstruturaRepetitiva/
-│ ├── EstruturaSequencial/
-│ ├── Funcoes/
-│ └── VetoresEMatrizes/
+│   ├── EstruturaCondicional/
+│   ├── EstruturaRepetitiva/
+│   ├── EstruturaSequencial/
+│   ├── Funcoes/
+│   └── VetoresEMatrizes/
+└── Python/
+    ├── EstruturaCondicional/
+    ├── EstruturaRepetitiva/
+    ├── EstruturaSequencial/
+    ├── Funcoes/
+    └── VetoresEMatrizes/
 
-├── Python/
-│ ├── EstruturaCondicional/
-│ ├── EstruturaRepetitiva/
-│ ├── EstruturaSequencial/
-│ ├── Funcoes/
-│ └── VetoresEMatrizes/
 
 
 ---
