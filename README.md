@@ -10,7 +10,7 @@ Os arquivos estão organizados por linguagem e, dentro de cada uma, por tema:
 
 
 ```
-📂 Linguagens/
+📂 LogicaDeProgramacao/
 ├── 💻 VisualG/
 │   ├── 📁 EstruturaCondicional/
 │   ├── 📁 EstruturaRepetitiva/
