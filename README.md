@@ -46,7 +46,6 @@ Linguagens/
     ├── EstruturaSequencial/
     ├── Funcoes/
     └── VetoresEMatrizes/
-    ```
 
 
 
